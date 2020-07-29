@@ -1,0 +1,33 @@
+.country-link{
+outline: none;
+text-transform: uppercase;
+text-decoration: none;
+}
+
+
+.btn-country{
+		margin-top: 10px !important;
+		background-color: #4abd4f !important;
+		border-radius: 10px;
+		transition: 0.5s;
+}
+
+.btn-country:hover {
+		background-color: #ff7979 !important;
+}
+
+
+.card-button{
+	font-size: 18px;
+	border:none;
+	border-radius: 20px;
+	background: #ff1717;
+	color:#fff;
+	margin: 0 auto;
+	transition: .2s;
+	padding: 10px 30px;
+}
+.card-button:hover {
+		background-color: #e6ff17;
+		color: #000;
+}
